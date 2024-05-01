@@ -139,7 +139,6 @@ fun DetailScreen(
                     }
                     AgvImage(
                         imageUrl = uiState.art.url,
-                        id = uiState.art.objectNumber,
                         modifier = modifier
                             .fillMaxWidth()
                             .height(400.dp)

@@ -97,7 +97,6 @@ internal fun ArtsScreen(
                     ) {
                         AgvImage(
                             imageUrl = uiState.arts[it].webImage.url,
-                            id = uiState.arts[it].objectNumber,
                             modifier = Modifier.fillMaxSize()
                         )
                     }

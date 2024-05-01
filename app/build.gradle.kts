@@ -35,9 +35,8 @@ dependencies {
     implementation(projects.feature.arts)
 
     implementation(libs.androidx.activity.compose)
-//    implementation(libs.androidx.appcompat)
-//    implementation(libs.androidx.core.ktx)
     implementation(libs.material)
+    implementation(libs.coil.compose)
     implementation(libs.androidx.core.splashscreen)
     implementation(libs.androidx.compose.runtime)
     implementation(libs.androidx.compose.material3)

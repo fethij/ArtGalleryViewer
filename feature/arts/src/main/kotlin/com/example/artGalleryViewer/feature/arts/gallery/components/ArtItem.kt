@@ -18,7 +18,6 @@ import com.example.artGalleyViewer.core.designsystem.component.AgvImage
 @Composable
 fun ArtItem(
     url: String,
-    id: String,
     title: String,
     onClick: () -> Unit,
     modifier: Modifier
@@ -33,7 +32,6 @@ fun ArtItem(
         ) {
             AgvImage(
                 imageUrl = url,
-                id = id,
                 contentScale = ContentScale.Crop,
                 modifier = modifier
                     .height(180.dp)

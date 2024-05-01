@@ -138,7 +138,6 @@ internal fun CollectionScreen(
                         ) { art ->
                             ArtItem(
                                 url = art.webImage.url,
-                                id = art.objectNumber,
                                 title = art.title,
                                 onClick = { onArtClick(art.objectNumber) },
                                 modifier = modifier.padding(horizontal = 8.dp, vertical = 6.dp)
