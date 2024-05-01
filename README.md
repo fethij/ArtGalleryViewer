@@ -33,9 +33,9 @@ There are a few ways to open this project.
 ## Design
 Design is inspired by [Mari Andrianova](https://dribbble.com/shots/20446337-Gallery-of-art-App).
 
-<img width="300" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/a46b7b5b-d2d3-4d27-a897-5c81ae6439c7"><img width="300" alt="s1" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/2056de1e-6841-4455-bc95-6ffbdaec1542"><img width="300" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/241f9f7e-f926-4885-a448-b2a6769c7518">
+<img width="240" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/a46b7b5b-d2d3-4d27-a897-5c81ae6439c7"><img width="240" alt="s1" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/2056de1e-6841-4455-bc95-6ffbdaec1542"><img width="240" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/241f9f7e-f926-4885-a448-b2a6769c7518">
 
-<img width="300" alt="s1" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/4cb65274-aa61-4c78-9439-874d655a2295"><img width="300" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/c8a96798-e180-4902-aba7-58602167bde8"><img width="300" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/0db53073-29bb-4cf8-8f4c-3dcf3fe64fb3">
+<img width="240" alt="s1" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/4cb65274-aa61-4c78-9439-874d655a2295"><img width="240" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/c8a96798-e180-4902-aba7-58602167bde8"><img width="240" alt="s2" src="https://github.com/fethij/ArtGalleryViewer/assets/32542424/0db53073-29bb-4cf8-8f4c-3dcf3fe64fb3">
 
 
 ## Modularization
