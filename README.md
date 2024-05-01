@@ -16,7 +16,7 @@ There are a few ways to open this project.
 
 ### Command-line + Android Studio <img width="30" align="center" src="https://slackmojis.com/emojis/1263-terminal/download">
 
-1. Run `git clone https://github.com/adrianwitaszak/PexWallpapers.git` command to clone project
+1. Run `git clone https://github.com/fethij/ArtGalleryViewer.git` command to clone project
 2. Open `Android Studio` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
 # Add API key
